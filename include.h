@@ -15,6 +15,8 @@ struct ProjInfo
 	char Time[20];		//项目创建时间
 };
 
+
+
 static void MapDataToTable(const QStringList arrField, const QList<QStringList>& arrData, QTableWidget* pTable, const QStringList arrInt, const QStringList arrFloat)
 {
 	if (pTable && arrField.size() > 0)
