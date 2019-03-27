@@ -1,6 +1,7 @@
 #pragma once
 #include <QList>
 #include <QTableWidget>
+
 //项目信息
 struct ProjInfo
 {
