@@ -1,7 +1,7 @@
 #pragma once
 #include <QList>
 #include <QTableWidget>
-//项目信息
+//项目信息 添加注释1
 struct ProjInfo
 {
 	char ID[50];		//项目索引
