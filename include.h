@@ -2,7 +2,7 @@
 #include <QList>
 #include <QTableWidget>
 
-//项目信息 添加注释1
+//项目信息 添加注释（如何解决冲突）
 
 struct ProjInfo
 {
