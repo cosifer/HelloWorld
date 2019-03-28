@@ -2,7 +2,7 @@
 #include <QList>
 #include <QTableWidget>
 
-//项目信息 添加注释（那我就如此解决冲突是否可以）
+//项目信息 添加注释（再次发生多次冲突，看如何解决）
 
 
 struct ProjInfo
@@ -13,9 +13,9 @@ struct ProjInfo
 	int	 iYear;			//年份
 	char PC[20];		//批次
 	char type[20];		//资金性质
-	char CoLtd[50];		//施工单位
-	double fTZ;			//项目总投资
-	char Time[20];		//项目创建时间
+	char CoLtd[50];		//施工单位再次发生多次冲突，看如何解决
+	double fTZ;			//项目总投资再次发生多次冲突，看如何解决
+	char Time[20];		//项目创建时间再次发生多次冲突，看如何解决
 };
 
 
